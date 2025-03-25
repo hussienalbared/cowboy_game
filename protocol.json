@@ -1,0 +1,159 @@
+{
+    "winner": {
+        "name": "Person 4",
+        "health_points": 3
+    },
+    "game_simulation": [
+        {
+            "shooter_health": 10,
+            "damage": 2,
+            "shooter": "Person 2",
+            "target_health_after": 8,
+            "target": "Person 3"
+        },
+        {
+            "shooter_health": 8,
+            "damage": 5,
+            "shooter": "Person 3",
+            "target_health_after": 5,
+            "target": "Person 4"
+        },
+        {
+            "shooter_health": 5,
+            "damage": 5,
+            "shooter": "Person 4",
+            "target_health_after": 3,
+            "target": "Person 3"
+        },
+        {
+            "shooter_health": 3,
+            "damage": 5,
+            "shooter": "Person 3",
+            "target_health_after": 5,
+            "target": "Person 2"
+        },
+        {
+            "shooter_health": 5,
+            "damage": 4,
+            "shooter": "Person 2",
+            "target_health_after": 6,
+            "target": "Person 1"
+        },
+        {
+            "shooter_health": 6,
+            "damage": 2,
+            "shooter": "Person 1",
+            "target_health_after": 3,
+            "target": "Person 2"
+        },
+        {
+            "shooter_health": 3,
+            "damage": 1,
+            "shooter": "Person 2",
+            "target_health_after": 5,
+            "target": "Person 1"
+        },
+        {
+            "shooter_health": 5,
+            "damage": 5,
+            "shooter": "Person 1",
+            "target_health_after": 5,
+            "target": "Person 6"
+        },
+        {
+            "shooter_health": 5,
+            "damage": 4,
+            "shooter": "Person 6",
+            "target_health_after": 6,
+            "target": "Person 5"
+        },
+        {
+            "shooter_health": 6,
+            "damage": 3,
+            "shooter": "Person 5",
+            "target_health_after": 2,
+            "target": "Person 6"
+        },
+        {
+            "shooter_health": 2,
+            "damage": 4,
+            "shooter": "Person 6",
+            "target_health_after": 1,
+            "target": "Person 1"
+        },
+        {
+            "shooter_health": 1,
+            "damage": 1,
+            "shooter": "Person 1",
+            "target_health_after": 1,
+            "target": "Person 6"
+        },
+        {
+            "shooter_health": 1,
+            "damage": 4,
+            "shooter": "Person 6",
+            "target_health_after": 2,
+            "target": "Person 5"
+        },
+        {
+            "shooter_health": 2,
+            "damage": 3,
+            "shooter": "Person 5",
+            "target_health_after": 0,
+            "target": "Person 6"
+        },
+        {
+            "shooter_health": 2,
+            "damage": 3,
+            "shooter": "Person 5",
+            "target_health_after": 0,
+            "target": "Person 1"
+        },
+        {
+            "shooter_health": 2,
+            "damage": 3,
+            "shooter": "Person 5",
+            "target_health_after": 0,
+            "target": "Person 2"
+        },
+        {
+            "shooter_health": 2,
+            "damage": 2,
+            "shooter": "Person 5",
+            "target_health_after": 1,
+            "target": "Person 3"
+        },
+        {
+            "shooter_health": 1,
+            "damage": 1,
+            "shooter": "Person 3",
+            "target_health_after": 1,
+            "target": "Person 5"
+        },
+        {
+            "shooter_health": 1,
+            "damage": 2,
+            "shooter": "Person 5",
+            "target_health_after": 3,
+            "target": "Person 4"
+        },
+        {
+            "shooter_health": 3,
+            "damage": 5,
+            "shooter": "Person 4",
+            "target_health_after": 0,
+            "target": "Person 3"
+        },
+        {
+            "shooter_health": 3,
+            "damage": 5,
+            "shooter": "Person 4",
+            "target_health_after": 0,
+            "target": "Person 5"
+        },
+        {
+            "name": "Person 4",
+            "health_points": 3
+        }
+    ]
+}
